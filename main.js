@@ -4,7 +4,7 @@ var app = new Vue({
     problems: [1, 2, 3, 4],
     currentProblem: 2,
     directions: {
-      1: "Use the 😂 emoji in place of the word crying.",
+      1: "Use the 😂 emoji in place of the word laughing.",
       2: "Use the 😭 emoji in place of the word sad.",
       3: "Use the 😍 emoji in place of the word love.",
       4: "Use the 🙏 emoji to replace the word hopefully."
